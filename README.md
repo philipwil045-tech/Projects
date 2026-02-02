@@ -1,105 +1,90 @@
-Welcome to my GitHub repository!
-This repo contains screenshots and artifacts from projects I’m proud to share — some completed, others ongoing.
+# 👋 Philip Wilcox — Example of Projects Portfolio
 
-The repository includes:
+Welcome to my GitHub portfolio.  
+This repository showcases selected projects I’ve built independently and during my internship at **Spread AI (Berlin)**.  
+The projects focus on **automation, data analysis, and interactive data exploration**.
 
-An Automatic Invoice Creator & Business Analytics Tool
+---
 
-Data Analysis and Exploration applications developed during my internship at Spread AI (Berlin)
+## 🧾 Automatic Invoice Creator & Business Analytics
 
-🧾 Automatic Invoice Creator & Business Analytics Tool
+**Python · PDF Generation · Financial Calculations**  
+📁 `PersonalInvoiceCreatorAndAnalytics.png`
 
-File: PersonalInvoiceCreatorAndAnalytics.png
+A Python-based tool that automates invoice creation for freelance and business use.
 
-This is a Python-based automatic invoice creator designed to streamline freelance and business invoicing.
+**Highlights:**
+- Records job and work entries
+- Automatically calculates totals, tax, and superannuation
+- Generates professional invoices
+- Exports invoices directly to PDF
+- Combines invoicing with basic business analytics
 
-Key features:
+---
 
-Records and stores job entries
+## 📊 Data Analysis Tools — Spread AI Internship (Berlin)
 
-Automatically calculates:
+During my internship at **Spread AI**, I worked on internal tools focused on **data quality, completeness, and dataset exploration**.
 
-Totals
+---
 
-Superannuation
+### 🔍 Attribute Analysis Tool
 
-Tax
+📁 `InternshipAppAttributeAnalyser.png`
 
-Generates professional invoices
+A dynamic query-building tool for inspecting datasets at an attribute level.
 
-Exports invoices directly to PDF
+**Key features:**
+- Filter datasets by entities and attributes
+- Identify missing vs. complete values
+- Generate visual summaries
+- Support flexible, interactive data quality checks
 
-The tool combines record-keeping with analytics to improve accuracy, efficiency, and financial transparency.
+---
 
-📊 Data Analysis Applications (Spread AI Internship)
+### 📈 Dataset Analysis Tool
 
-During my internship at Spread AI in Berlin, my primary focus was building and improving internal data analysis tools. These applications support data quality assessment, exploration, and visualization.
+📁 `InternshipAppDatasetAnalyser.png`
 
-🔍 Attribute Analysis Tool
+A high-level dataset completeness analyser.
 
-File: InternshipAppAttributeAnalyser.png
+**Key features:**
+- Aggregates missing-value checks across all attributes
+- Calculates overall data completeness percentages
+- Produces detailed tables highlighting incomplete entities
+- Enables quick identification of data quality risks
 
-This tool functions as a dynamic query builder for dataset inspection.
+---
 
-Capabilities:
+### 🧭 Data Explorer & Relationship Visualisation
 
-Filter datasets by entities and attributes
+📁 `InternshipAppDataExplorer.png`
 
-Identify:
+An interactive data exploration and graph visualisation tool.
 
-Missing values
+**My contributions:**
+- Extended and improved existing functionality
+- Identified UX and scalability limitations
+- Proposed improvements including:
+  - More robust node collapsing
+  - Smarter node-limit handling without graph resets
+  - A database-diagram-style overview for complex datasets
 
-Complete values
+---
 
-Generate visualizations based on selected filters
+## 🛠 Skills & Focus Areas
 
-Enable flexible, interactive data quality exploration
+- Python application development
+- Data analysis & data quality assessment
+- Interactive data visualisation
+- UX improvement for analytical tools
+- Automation of business processes
 
-📈 Dataset Analysis Tool
+---
 
-File: InternshipAppDatasetAnalyser.png
+## Wrap up
 
-This tool evaluates overall dataset completeness.
+Thanks for viewing my work!  
+Feel free to explore the repository or reach out.
 
-Features:
-
-Aggregates missing-value checks across all attributes
-
-Calculates completeness percentages
-
-Produces detailed tables highlighting:
-
-Entities with incomplete data
-
-Specific missing fields
-
-This provided teams with a clear, high-level view of data quality while preserving access to granular detail.
-
-🧭 Data Explorer & Relationship Visualisation
-
-File: InternshipAppDataExplorer.png
-
-An interactive application enabling users to explore dataset structures and relationships.
-
-My contributions:
-
-Extended existing functionality
-
-Identified UX limitations and bottlenecks
-
-Proposed and worked on improvements, including:
-
-More robust node collapsing
-
-Smarter node-limit handling without graph resets
-
-Concept for a database-diagram-style view for improved dataset overview
-
-This work focused on making complex datasets easier to understand and navigate.
-
-🙌 Thanks
-
-Thanks for taking the time to explore my work!
-
-Cheers,
-Philip Wilcox
+**Philip Wilcox**
